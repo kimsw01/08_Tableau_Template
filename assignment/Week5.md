@@ -154,7 +154,7 @@ https://www.youtube.com/watch?v=GJvB8hBqeE8
 5) 그리고 만약 배송이 각 나라/범주별 평균보다 빨랐다면 '빠름', 같다면 '평균', 느리다면 '느림' 으로 print 해주세요. 
 ```
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week4-1.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week4-1.png)
 
 
 
@@ -172,7 +172,7 @@ https://www.youtube.com/watch?v=GJvB8hBqeE8
  어떤 값이 각 지표의 평균보다 낮은 값을 갖고 있다면 색깔을 주황색으로, 그것보다 높다면 파란색으로 표시하고 싶어요. 그 평균값은 각 지표별로 달라야 해요.
 ```
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week4-2.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week4-2.png)
 
 
 
