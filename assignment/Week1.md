@@ -215,7 +215,7 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week0-2.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week0-2.png)
 
 
 바로 읍면동의 경계를 가지고 있는 shp, geojson 등 공간파일을 원본데이터와 머지하는 것입니다.
