@@ -98,7 +98,7 @@
 
 <!-- 병렬막대그래프에 관해 배우게 된 점을 적어주세요 -->
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week1-1.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week1-1.png)
 
 
 
@@ -114,7 +114,7 @@
 
 <!-- 누적병렬막대그래프에 관해 배우게 된 점을 적어주세요 -->
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week1-2.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week1-2.png)
 
 
 
@@ -198,7 +198,7 @@ Latitude - 위도
 ```
 
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week1-3.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week1-3.png)
 
 
 ```js
